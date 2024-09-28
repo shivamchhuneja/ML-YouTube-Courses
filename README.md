@@ -133,6 +133,8 @@ To learn some of the basics of ML:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
+🔗 [2022 Version](https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy) (Without Dr. Andrew Ng)
+
 ## Making Friends with Machine Learning
 
 A series of mini lectures covering various introductory topics in ML:
